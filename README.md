@@ -81,9 +81,10 @@ Follow the instructions below to set up the project locally and deploy it on com
    ```bash
    git clone https://github.com/Rajarshi-adesara-2909/Water-Quality-Monitaring-System.git
    
-2. ## Navigate to the project directory:
+2. **Navigate to the project directory**
    ```bash
    cd Water-Quality-Monitaring-System
+
    
 3. ## Open the project in Arduino IDE:
 - Launch Arduino IDE
