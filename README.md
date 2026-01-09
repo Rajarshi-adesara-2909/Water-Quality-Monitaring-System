@@ -84,7 +84,6 @@ Follow the instructions below to set up the project locally and deploy it on com
 2. **Navigate to the project directory**
    ```bash
    cd Water-Quality-Monitaring-System
-
    
 3. ## Open the project in Arduino IDE:
 - Launch Arduino IDE
