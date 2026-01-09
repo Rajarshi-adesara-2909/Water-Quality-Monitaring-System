@@ -80,3 +80,28 @@ Follow the instructions below to set up the project locally and deploy it on com
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Rajarshi-adesara-2909/Water-Quality-Monitaring-System.git
+   
+2. ## Navigate to the project directory:
+   ```bash
+   cd Water-Quality-Monitaring-System
+   
+3. ## Open the project in Arduino IDE:
+- Launch Arduino IDE
+- Open the main .ino file from the project folder
+
+4. ##Install required libraries:
+
+- Open Arduino IDE → Library Manager
+- Install libraries for:
+  - LCD (I2C or standard)
+  - Temperature sensor
+  - Any sensor-specific dependencies
+
+##Usage
+
+- Connect all sensors and the LCD according to the circuit diagram.
+- Ensure correct power supply connections.
+- Upload the code to the microcontroller.
+- Power on the system.
+- Observe real-time water quality readings on the LCD display.
+- Monitor LED indicators to determine water safety status.
