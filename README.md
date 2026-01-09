@@ -90,7 +90,7 @@ Follow the instructions below to set up the project locally and deploy it on com
 - Launch Arduino IDE
 - Open the main .ino file from the project folder
 
-4. ##Install required libraries:
+4. ## Install required libraries:
 
 - Open Arduino IDE → Library Manager
 - Install libraries for:
@@ -98,7 +98,7 @@ Follow the instructions below to set up the project locally and deploy it on com
   - Temperature sensor
   - Any sensor-specific dependencies
 
-##Usage
+## Usage
 
 - Connect all sensors and the LCD according to the circuit diagram.
 - Ensure correct power supply connections.
